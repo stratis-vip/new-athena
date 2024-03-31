@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/new-athena/static/css/main.d9e116a1.css",
-    "main.js": "/new-athena/static/js/main.e43db443.js",
+    "main.js": "/new-athena/static/js/main.38984c60.js",
     "static/media/Adventure11.jpg": "/new-athena/static/media/Adventure11.a1c9973e483cf8743cd5.jpg",
     "static/media/adv09.jpg": "/new-athena/static/media/adv09.6cc344accaca06bbf62c.jpg",
-    "static/media/13.jpg": "/new-athena/static/media/13.5d71b02644679e0ec28a.jpg",
     "static/media/Adventure12.jpg": "/new-athena/static/media/Adventure12.2805084f739a7f0386f3.jpg",
     "static/media/Adventure10.jpg": "/new-athena/static/media/Adventure10.4024dd50e9e65359a180.jpg",
     "static/media/athena.png": "/new-athena/static/media/athena.ea945fd5b1361d25e21f.png",
     "static/media/Adventure11small.jpg": "/new-athena/static/media/Adventure11small.4aefd8cb496e2c0e0a2e.jpg",
     "static/media/Adventure12small.jpg": "/new-athena/static/media/Adventure12small.1c50d2cb0673def7ab47.jpg",
-    "static/media/13small.jpg": "/new-athena/static/media/13small.5713f689da44f1a5d003.jpg",
     "static/media/Adventure10small.jpg": "/new-athena/static/media/Adventure10small.fa881f197455f44554e8.jpg",
     "index.html": "/new-athena/index.html",
     "main.d9e116a1.css.map": "/new-athena/static/css/main.d9e116a1.css.map",
-    "main.e43db443.js.map": "/new-athena/static/js/main.e43db443.js.map"
+    "main.38984c60.js.map": "/new-athena/static/js/main.38984c60.js.map"
   },
   "entrypoints": [
     "static/css/main.d9e116a1.css",
-    "static/js/main.e43db443.js"
+    "static/js/main.38984c60.js"
   ]
 }
