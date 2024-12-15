@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/new-athena/static/css/main.598b92e4.css",
-    "main.js": "/new-athena/static/js/main.8d2cdcbb.js",
+    "main.js": "/new-athena/static/js/main.9dc67f90.js",
     "static/media/Adventure11.jpg": "/new-athena/static/media/Adventure11.a1c9973e483cf8743cd5.jpg",
     "static/media/adv09.jpg": "/new-athena/static/media/adv09.6cc344accaca06bbf62c.jpg",
     "static/media/Adventure12.jpg": "/new-athena/static/media/Adventure12.2805084f739a7f0386f3.jpg",
@@ -12,10 +12,10 @@
     "static/media/Adventure10small.jpg": "/new-athena/static/media/Adventure10small.fa881f197455f44554e8.jpg",
     "index.html": "/new-athena/index.html",
     "main.598b92e4.css.map": "/new-athena/static/css/main.598b92e4.css.map",
-    "main.8d2cdcbb.js.map": "/new-athena/static/js/main.8d2cdcbb.js.map"
+    "main.9dc67f90.js.map": "/new-athena/static/js/main.9dc67f90.js.map"
   },
   "entrypoints": [
     "static/css/main.598b92e4.css",
-    "static/js/main.8d2cdcbb.js"
+    "static/js/main.9dc67f90.js"
   ]
 }
